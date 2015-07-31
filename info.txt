@@ -1,0 +1,6 @@
+name=Simple Share IOS/ANDROID
+description=Simple share content (Email/Facebook/Twitter and more…).
+author=Robin Schaafsma
+website=http://www.byrobingames.com
+version=1.7
+compatibility=mobile

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension>
+    <dependency name="UIKit.framework" if="ios" />
+	<dependency name="QuartzCore.framework" if="ios" />
+	<dependency name="OpenGLES.framework" if="ios" />
+	<classpath name="" />
+	<ndll name="share" if="ios"/>
+    
+    
+    <section if="android">
+        <dependency name="simpleshare" path="dependencies/simpleshare" if="android" />
+    </section>
+</extension>

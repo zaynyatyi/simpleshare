@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<palette>
+	<block tag="share" spec="Share message: %0 with website: %1 and take a screenshot: %2" code="Share.shareContent(~,~,~);" type="action" color="blue" returns="void">
+		<fields>
+			<text order="0"></text>
+			<text order="1"></text>
+			<dropdown order="2">
+				<choices>
+					<c text="yes" code="true"></c>
+					<c text="no" code="false"></c>
+				</choices>
+			</dropdown>
+		</fields>
+	</block>
+    
+    <block tag="getShareResult" spec="Message %0" code="Share.getShareResult(~)" type="normal" color="blue" returns="boolean">
+        <fields>
+            <dropdown order="0">
+                <choices>
+                    <c text="did successfully shared" code="0"></c>
+                    <c text="did fail to shared" code="1"></c>
+                </choices>
+            </dropdown>
+        </fields>
+    </block>
+
+</palette>
