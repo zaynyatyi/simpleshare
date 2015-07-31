@@ -24,8 +24,7 @@ https://developers.facebook.com/docs/apps/review/prefill
 ![iosscreenshot](http://www.byrobingames.com/stencyl/simpleshare/simpleshareios.png)![androidscreenshot](http://www.byrobingames.com/stencyl/simpleshare/simpleshareandroid.png)
 
 ## How to Install
-Download zip file on the right of the screen. ![download](http://www.byrobingames.com/stencyl/heyzap/download.png)<br />
-Go to : http://community.stencyl.com/index.php/topic,30432.0.html
+Download zip file on the right of the screen. ![download](http://www.byrobingames.com/stencyl/heyzap/download.png) on this page https://github.com/byrobingames/simpleshare<br />
 
 Install the zip file: Go to : http://community.stencyl.com/index.php/topic,30432.0.html
 
@@ -38,7 +37,7 @@ If this is your case, do the following:
 - Go to "YOURDOCUMENTFOLDER/stencylworks/engine-extensions/" folder
 - Delete the folder "simpleshare" and leave the folder "simpleshare-master"(thats the new folder name)
 - Open you Game
-- You see can in Settings->Extensions, there is now jus one Admob extension.
+- You see can in Settings->Extensions, there is now jus one Simple Share extension.
 - The blocks you already used with previous version subsist.
 
 Or for advanced users:(Not recommended)
