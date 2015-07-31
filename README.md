@@ -48,6 +48,9 @@ Or for advanced users:(Not recommended)
 
 ## Documentation and Blocks Example
 
+Just put the block under a share button, fill in a message with a website url and set yes or no if you wanna share a screenshot. Website has to start with http://
+Select yes or no if you wanna share a screenshot.
+
 //TODO
 
 ## Donate
