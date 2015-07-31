@@ -1,6 +1,6 @@
-name=Simple Share IOS/ANDROID
+name=Simple Share IOS/ANDROID (byRobin)
 description=Simple share content (Email/Facebook/Twitter and more…).
 author=Robin Schaafsma
 website=http://www.byrobingames.com
-version=1.7
+version=1.8
 compatibility=mobile
