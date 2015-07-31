@@ -47,7 +47,8 @@ Or for advanced users:(Not recommended)
 - You have to do this every time you download a updated version fom GitHub.
 
 ## Documentation and Blocks Example
-[Simple Share WIKI](https://github.com/byrobingames/simpleshare/wiki)
+
+//TODO
 
 ## Donate
 
