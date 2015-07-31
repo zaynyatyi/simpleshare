@@ -28,7 +28,7 @@ Download zip file on the right of the screen. ![download](http://www.byrobingame
 Go to : http://community.stencyl.com/index.php/topic,30432.0.html
 
 ## Documentation and Blocks Example
-[Heyzap WIKI](https://github.com/byrobingames/simpleshare/wiki)
+[Simple Share WIKI](https://github.com/byrobingames/simpleshare/wiki)
 
 ## Donate
 
