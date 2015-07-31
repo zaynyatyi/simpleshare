@@ -9,7 +9,7 @@ You can share a message with a website and take a screenshot, via all existing a
 ###The website or screenshot will share with Facebook and not the message. All other apps works fine..
 It seems that a recent update to the Facebook application has replaced the in-built Facebook share activity with one that ignores status text .
 
-Facebook's policies don't allow you to pre-populate status messages and require all content to be user generated - while I understand the intention behind this, I personally think it is kind of stupid in many cases - For example in my game I want to pre-populate the user's score, but now I can't, so the user is presented with an empty dialog box. I will probably simply remove the Facebook sharing option as no-one will ever use it now.
+Facebook's policies don't allow you to pre-populate status messages and require all content to be user generated - while I understand the intention behind this, I personally think it is kind of stupid in many cases - For example in my game I want to pre-populate the user's score, but now I can't, so the user is presented with an empty dialog box. I will probably simply remove the Facebook sharing option as no-one will ever use it now.<br/>
 https://developers.facebook.com/docs/apps/review/prefill
 
 ## Main Features
