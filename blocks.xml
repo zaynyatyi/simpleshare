@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <palette>
-	<block tag="share" spec="Share message: %0 with website: %1 and take a screenshot: %2" code="Share.shareContent(~,~,~);" type="action" color="blue" returns="void">
+	<block tag="share" spec="Share message: %0 with website: %1 and take a screenshot: %2 [c:simpleshare]" code="Share.shareContent(~,~,~);" type="action" color="blue" returns="void">
 		<fields>
 			<text order="0"></text>
 			<text order="1"></text>
@@ -13,7 +13,7 @@
 		</fields>
 	</block>
     
-    <block tag="getShareResult" spec="Message %0" code="Share.getShareResult(~)" type="normal" color="blue" returns="boolean">
+    <block tag="getShareResult" spec="Message %0 [c:simpleshare]" code="Share.getShareResult(~)" type="normal" color="blue" returns="boolean">
         <fields>
             <dropdown order="0">
                 <choices>
