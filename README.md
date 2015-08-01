@@ -51,7 +51,20 @@ Or for advanced users:(Not recommended)
 Just put the block under a share button, fill in a message with a website url and set yes or no if you wanna share a screenshot. Website has to start with http://
 Select yes or no if you wanna share a screenshot.
 
-//TODO
+### Share Message with website
+Send a message with website url to other app like facebook/twitter/email
+
+![simpleshareblock](http://www.byrobin.nl/stencyl/simpleshare/simpleshareblock.png)
+
+**Inputs**
+- Message(as Text)
+- Website(as Text) start with http://
+- Take screenshot yes or no.
+
+Share Message succeed or failed
+Check if share succeed of failed.
+
+![simplesharecallback](http://www.byrobin.nl/stencyl/simpleshare/simplesharecallback.png)
 
 ## Donate
 
